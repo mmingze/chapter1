@@ -1,2 +1,5 @@
 print('hello world')
-
+#hello
+str= 'hello'
+print(str)
+print (str[1])
